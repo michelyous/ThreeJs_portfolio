@@ -1,0 +1,227 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "work": "Work",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I am Michel",
+    "tagline": "Building Products & Brands",
+    "button": "Let's work together"
+  },
+  "about": {
+    "introduction": {
+      "title": "Hi, I’m Michel Youssef",
+      "description": "As a Full-Stack Developer with expertise in Big Data and Automation, I specialize in creating innovative solutions to streamline processes and enhance efficiency. My goal is to deliver scalable and reliable systems that make a lasting impact."
+    },
+    "techStack": {
+      "title": "Tech Stack",
+      "description": "Proficient in Java, Kotlin, PHP, ReactJS, and Node.js, I build robust applications across web and mobile platforms. My experience spans tools like NestJS, Airtable, Make (Integromat), and various database systems to ensure seamless integration and performance."
+    },
+    "remoteReady": {
+      "title": "Remote-Ready Professional",
+      "description": "Based in Paris, France, I am open to remote work worldwide. My flexibility in time zones and strong communication skills ensure seamless collaboration with global teams.",
+      "button": "Contact Me"
+    },
+    "passion": {
+      "title": "Passion for Coding",
+      "description": "From developing administrative dashboards with ReactJS to transitioning platforms from AdonisJS to NestJS, I thrive on solving challenges through code. Programming is more than my profession—it’s my passion and a driving force for continuous innovation."
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "email": "michelyoussef-10@hotmail.com",
+      "copied": "Copied to clipboard!"
+    }
+  },
+  "projects": {
+    "title": "My Selected Work",
+    "liveSite": "Check Live Site",
+    "cominPlatform": {
+      "title": "Comin Platform",
+      "desc": "Europe’s first equitable ride-sharing platform with a focus on community-driven governance. Developed the website using Webflow and enhanced the platform with a robust dashboard built in ReactJS and TypeScript.",
+      "subdesc": "The COMIN mobile apps (Driver and User apps) were also developed using React Native, providing seamless interaction between drivers and users.",
+      "href": "https://www.wearecomin.com",
+      "texture": "/textures/project/project1.mp4",
+      "logo": "/assets/comin-logo.png",
+      "logoStyle": {
+        "backgroundColor": "#2A1816",
+        "border": "0.2px solid #36201D",
+        "boxShadow": "0px 0px 60px 0px #AA3C304D"
+      },
+      "spotlight": "/assets/spotlight1.png",
+      "tags": [
+        { "id": 1, "name": "React.js", "path": "/assets/react.svg" },
+        { "id": 2, "name": "TailwindCSS", "path": "assets/tailwindcss.png" },
+        { "id": 3, "name": "TypeScript", "path": "/assets/typescript.png" },
+        { "id": 4, "name": "MongoDB", "path": "/assets/mongodb.png" }
+      ]
+    },
+    "notabeneComplianceResearch": {
+      "title": "Notabene Compliance Research",
+      "desc": "Analyzed global crypto exchanges for compliance trends and created in-depth reports on regulations worldwide. Provided key insights that helped shape Notabene’s compliance platform, SafeTransact.",
+      "subdesc": "Generated research-driven insights on exchange performance, liquidity, and market behaviors to aid decision-making.",
+      "href": "https://www.notabene.id/",
+      "texture": "/textures/project/project2.mp4",
+      "logo": "/assets/notabene-logo.png",
+      "logoStyle": {
+        "backgroundColor": "#13202F",
+        "border": "0.2px solid #17293E",
+        "boxShadow": "0px 0px 60px 0px #2F6DB54D"
+      },
+      "spotlight": "/assets/spotlight2.png",
+      "tags": [
+        { "id": 1, "name": "Python", "path": "/assets/python.png" },
+        { "id": 2, "name": "Power BI", "path": "/assets/powerbi.webp" },
+        { "id": 3, "name": "Excel", "path": "/assets/excel.png" }
+      ]
+    },
+    "fouaniGroupWebsite": {
+      "title": "Fouani Group Website",
+      "desc": "Built a professional website showcasing Fouani Group’s multinational operations and diverse portfolio in electronics and FMCG sectors.",
+      "subdesc": "Used modern web development tools to create a user-friendly design that highlights the company’s excellence in distribution and manufacturing.",
+      "href": "https://www.fouani.com/",
+      "texture": "/textures/project/project3.mp4",
+      "logo": "/assets/fouani-logo.png",
+      "logoStyle": {
+        "backgroundColor": "#FFFFFF",
+        "background": "linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)",
+        "border": "0.2px solid rgba(208, 213, 221, 1)",
+        "boxShadow": "0px 0px 60px 0px rgba(35, 131, 96, 0.3)"
+      },
+      "spotlight": "/assets/spotlight3.png",
+      "tags": [
+        { "id": 1, "name": "React.js", "path": "/assets/react.svg" },
+        { "id": 2, "name": "TailwindCSS", "path": "assets/tailwindcss.png" },
+        { "id": 3, "name": "TypeScript", "path": "/assets/typescript.png" },
+        { "id": 4, "name": "Framer Motion", "path": "/assets/framer.png" }
+      ]
+    },
+    "sigmaCylindersWebsite": {
+      "title": "Sigma Cylinders Website",
+      "desc": "Developed a modern and interactive website to showcase Sigma Cylinders’ expertise in LPG cylinder manufacturing and energy solutions.",
+      "subdesc": "Highlighted key company metrics, locations, and services with a clean, responsive design that ensures usability across all devices.",
+      "href": "https://www.sigmacylinders.com/en",
+      "texture": "/textures/project/project4.mp4",
+      "logo": "/assets/sigma.jpeg",
+      "logoStyle": {
+        "backgroundColor": "#ffffff",
+        "border": "0.2px solid #0E2D58",
+        "boxShadow": "0px 0px 60px 0px #2F67B64D"
+      },
+      "spotlight": "/assets/spotlight4.png",
+      "tags": [
+        { "id": 1, "name": "React.js", "path": "/assets/react.svg" },
+        { "id": 2, "name": "TailwindCSS", "path": "assets/tailwindcss.png" },
+        { "id": 3, "name": "TypeScript", "path": "/assets/typescript.png" },
+        { "id": 4, "name": "Framer Motion", "path": "/assets/framer.png" }
+      ]
+    }
+  },
+  "clients": {
+    "title": "Hear from My Clients",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "COMIN CEO",
+        "position": "CEO at COMIN",
+        "img": "assets/review1.png",
+        "review": "Michel brought exceptional value to our platform by building a scalable admin dashboard and automating driver onboarding workflows. His ability to deliver quality solutions quickly is unmatched."
+      },
+      {
+        "id": 2,
+        "name": "Notabene Lead",
+        "position": "Team Lead at Notabene",
+        "img": "assets/review2.png",
+        "review": "Michel’s research and data insights have been instrumental in understanding global crypto exchange trends and compliance requirements. His thorough analysis is always impressive."
+      },
+      {
+        "id": 3,
+        "name": "Fouani Group Manager",
+        "position": "Manager at Fouani Group",
+        "img": "assets/review3.png",
+        "review": "Michel delivered a modern and visually stunning website for us. His attention to detail and ability to meet tight deadlines were key to the project’s success."
+      },
+      {
+        "id": 4,
+        "name": "Ether Smith",
+        "position": "CEO of BrightStar Enterprises",
+        "img": "assets/review4.png",
+        "review": "Michel was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend development are top-notch."
+      }
+    ]
+  },
+  "workExperiences": {
+    "title": "My Professional Experience",
+    "list": [
+      {
+        "id": 1,
+        "name": "COMIN",
+        "pos": "Full-Stack Developer",
+        "duration": "Nov 2023 - Dec 2024",
+        "description": "Developed a scalable admin dashboard using ReactJS and transitioned the platform from AdonisJS to NestJS. Built secure APIs and mobile apps with React Native, enhancing user experience and operational efficiency.",
+        "icon": "/assets/comin-logo.png",
+        "animation": "victory"
+      },
+      {
+        "id": 2,
+        "name": "Notabene",
+        "pos": "Data & Research Analyst",
+        "duration": "Jul 2022 - Nov 2023",
+        "description": "Conducted research on global crypto exchanges, provided compliance insights, and created regulatory reports for jurisdictions worldwide. Delivered impactful analysis for SafeTransact.",
+        "icon": "/assets/notabene-logo.png",
+        "animation": "clapping"
+      },
+      {
+        "id": 3,
+        "name": "The Web Addicts",
+        "pos": "Full-Stack Developer",
+        "duration": "May 2022 - Aug 2022",
+        "description": "Led client projects with Laravel and created CMS solutions to improve operational efficiency. Delivered comprehensive tutorials and ensured seamless system integration.",
+        "icon": "/assets/thewebaddicts-logo.png",
+        "animation": "salute"
+      },
+      {
+        "id": 4,
+        "name": "TEDMOB",
+        "pos": "Full-Stack and Android Developer",
+        "duration": "Aug 2021 - Feb 2022",
+        "description": "Developed Android SMS advertising applications and delivered web apps with robust front-end and back-end capabilities. Collaborated closely with clients to deliver tailored solutions.",
+        "icon": "/assets/tedmob-logo.png",
+        "animation": "victory"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's talk",
+    "description": "Whether you’re looking to build a new website, improve your existing platform, or bring a unique project to life, I’m here to help.",
+    "form": {
+      "fullName": "Full Name",
+      "emailAddress": "Email address",
+      "yourMessage": "Your message",
+      "placeholders": {
+        "fullName": "ex., John Doe",
+        "emailAddress": "ex., johndoe@gmail.com",
+        "yourMessage": "Share your thoughts or inquiries..."
+      },
+      "button": {
+        "sending": "Sending...",
+        "sendMessage": "Send Message"
+      }
+    },
+    "alerts": {
+      "success": "Thank you for your message 😃",
+      "error": "I didn't receive your message 😢"
+    }
+  },
+  "footer": {
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "socialMedia": {
+      "github": "Github",
+      "twitter": "Twitter",
+      "instagram": "Instagram"
+    },
+    "copyright": "© 2024 Michel Youssef. All rights reserved."
+  }
+}

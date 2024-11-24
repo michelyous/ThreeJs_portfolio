@@ -1,0 +1,227 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "work": "Travail",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Salut, je suis Michel",
+    "tagline": "Créer des produits et des marques",
+    "button": "Travaillons ensemble"
+  },
+  "about": {
+    "introduction": {
+      "title": "Salut, je suis Michel Youssef",
+      "description": "En tant que développeur Full-Stack spécialisé en Big Data et automatisation, je crée des solutions innovantes pour rationaliser les processus et améliorer l'efficacité. Mon objectif est de fournir des systèmes évolutifs et fiables ayant un impact durable."
+    },
+    "techStack": {
+      "title": "Stack Technologique",
+      "description": "Maîtrise de Java, Kotlin, PHP, ReactJS et Node.js, je construis des applications robustes sur les plateformes web et mobiles. Mon expérience inclut des outils comme NestJS, Airtable, Make (Integromat) et divers systèmes de bases de données pour garantir une intégration et une performance fluides."
+    },
+    "remoteReady": {
+      "title": "Professionnel Disponible à Distance",
+      "description": "Basé à Paris, France, je suis ouvert au travail à distance dans le monde entier. Ma flexibilité sur les fuseaux horaires et mes solides compétences en communication assurent une collaboration fluide avec des équipes internationales.",
+      "button": "Contactez-moi"
+    },
+    "passion": {
+      "title": "Passion pour le Développement",
+      "description": "Du développement de tableaux de bord administratifs avec ReactJS à la transition des plateformes d'AdonisJS vers NestJS, je m'épanouis en résolvant des défis grâce au code. La programmation est plus qu'une profession pour moi—c'est ma passion et une force motrice pour une innovation continue."
+    },
+    "contact": {
+      "title": "Contactez-moi",
+      "email": "michelyoussef-10@hotmail.com",
+      "copied": "Copié dans le presse-papiers !"
+    }
+  },
+  "projects": {
+    "title": "Mes Réalisations Sélectionnées",
+    "liveSite": "Voir le site en ligne",
+    "cominPlatform": {
+      "title": "Plateforme Comin",
+      "desc": "Première plateforme de covoiturage équitable en Europe avec un accent sur la gouvernance communautaire. Développement du site web avec Webflow et amélioration de la plateforme grâce à un tableau de bord robuste construit avec ReactJS et TypeScript.",
+      "subdesc": "Les applications mobiles COMIN (applications Conducteur et Utilisateur) ont également été développées avec React Native, offrant une interaction fluide entre les conducteurs et les utilisateurs.",
+      "href": "https://www.wearecomin.com",
+      "texture": "/textures/project/project1.mp4",
+      "logo": "/assets/comin-logo.png",
+      "logoStyle": {
+        "backgroundColor": "#2A1816",
+        "border": "0.2px solid #36201D",
+        "boxShadow": "0px 0px 60px 0px #AA3C304D"
+      },
+      "spotlight": "/assets/spotlight1.png",
+      "tags": [
+        { "id": 1, "name": "React.js", "path": "/assets/react.svg" },
+        { "id": 2, "name": "TailwindCSS", "path": "assets/tailwindcss.png" },
+        { "id": 3, "name": "TypeScript", "path": "/assets/typescript.png" },
+        { "id": 4, "name": "MongoDB", "path": "/assets/mongodb.png" }
+      ]
+    },
+    "notabeneComplianceResearch": {
+      "title": "Recherche sur la Conformité Notabene",
+      "desc": "Analyse des plateformes d'échanges de cryptomonnaies mondiales pour les tendances de conformité et création de rapports approfondis sur les réglementations dans le monde entier. Fourniture d'informations clés ayant contribué à façonner la plateforme de conformité SafeTransact de Notabene.",
+      "subdesc": "Production d'analyses basées sur la recherche concernant la performance des échanges, la liquidité et les comportements du marché pour aider à la prise de décision.",
+      "href": "https://www.notabene.id/",
+      "texture": "/textures/project/project2.mp4",
+      "logo": "/assets/notabene-logo.png",
+      "logoStyle": {
+        "backgroundColor": "#13202F",
+        "border": "0.2px solid #17293E",
+        "boxShadow": "0px 0px 60px 0px #2F6DB54D"
+      },
+      "spotlight": "/assets/spotlight2.png",
+      "tags": [
+        { "id": 1, "name": "Python", "path": "/assets/python.png" },
+        { "id": 2, "name": "Power BI", "path": "/assets/powerbi.webp" },
+        { "id": 3, "name": "Excel", "path": "/assets/excel.png" }
+      ]
+    },
+    "fouaniGroupWebsite": {
+      "title": "Site Web du Groupe Fouani",
+      "desc": "Création d'un site web professionnel mettant en valeur les opérations multinationales et le portefeuille diversifié du Groupe Fouani dans les secteurs de l'électronique et des produits de grande consommation.",
+      "subdesc": "Utilisation d'outils de développement web modernes pour créer un design convivial mettant en évidence l'excellence de l'entreprise en matière de distribution et de fabrication.",
+      "href": "https://www.fouani.com/",
+      "texture": "/textures/project/project3.mp4",
+      "logo": "/assets/fouani-logo.png",
+      "logoStyle": {
+        "backgroundColor": "#FFFFFF",
+        "background": "linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)",
+        "border": "0.2px solid rgba(208, 213, 221, 1)",
+        "boxShadow": "0px 0px 60px 0px rgba(35, 131, 96, 0.3)"
+      },
+      "spotlight": "/assets/spotlight3.png",
+      "tags": [
+        { "id": 1, "name": "React.js", "path": "/assets/react.svg" },
+        { "id": 2, "name": "TailwindCSS", "path": "assets/tailwindcss.png" },
+        { "id": 3, "name": "TypeScript", "path": "/assets/typescript.png" },
+        { "id": 4, "name": "Framer Motion", "path": "/assets/framer.png" }
+      ]
+    },
+    "sigmaCylindersWebsite": {
+      "title": "Site Web de Sigma Cylinders",
+      "desc": "Développement d'un site web moderne et interactif pour mettre en avant l'expertise de Sigma Cylinders dans la fabrication de cylindres GPL et les solutions énergétiques.",
+      "subdesc": "Mise en valeur des principaux indicateurs, emplacements et services de l'entreprise grâce à un design épuré et réactif assurant une facilité d'utilisation sur tous les appareils.",
+      "href": "https://www.sigmacylinders.com/en",
+      "texture": "/textures/project/project4.mp4",
+      "logo": "/assets/sigma.jpeg",
+      "logoStyle": {
+        "backgroundColor": "#ffffff",
+        "border": "0.2px solid #0E2D58",
+        "boxShadow": "0px 0px 60px 0px #2F67B64D"
+      },
+      "spotlight": "/assets/spotlight4.png",
+      "tags": [
+        { "id": 1, "name": "React.js", "path": "/assets/react.svg" },
+        { "id": 2, "name": "TailwindCSS", "path": "assets/tailwindcss.png" },
+        { "id": 3, "name": "TypeScript", "path": "/assets/typescript.png" },
+        { "id": 4, "name": "Framer Motion", "path": "/assets/framer.png" }
+      ]
+    }
+  },
+  "clients": {
+    "title": "Découvrez l'avis de mes clients",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "PDG de COMIN",
+        "position": "PDG chez COMIN",
+        "img": "assets/review1.png",
+        "review": "Michel a apporté une valeur exceptionnelle à notre plateforme en développant un tableau de bord administrateur évolutif et en automatisant les processus d'intégration des conducteurs. Sa capacité à fournir rapidement des solutions de qualité est inégalée."
+      },
+      {
+        "id": 2,
+        "name": "Responsable chez Notabene",
+        "position": "Responsable d'équipe chez Notabene",
+        "img": "assets/review2.png",
+        "review": "Les recherches et les analyses de données de Michel ont été essentielles pour comprendre les tendances des échanges de crypto-monnaies à l'échelle mondiale et les exigences de conformité. Ses analyses approfondies sont toujours impressionnantes."
+      },
+      {
+        "id": 3,
+        "name": "Responsable du Groupe Fouani",
+        "position": "Responsable chez Groupe Fouani",
+        "img": "assets/review3.png",
+        "review": "Michel a livré un site web moderne et visuellement impressionnant pour nous. Son souci du détail et sa capacité à respecter des délais serrés ont été essentiels au succès du projet."
+      },
+      {
+        "id": 4,
+        "name": "Ether Smith",
+        "position": "PDG de BrightStar Enterprises",
+        "img": "assets/review4.png",
+        "review": "Michel a été un plaisir à travailler avec. Il a parfaitement compris nos exigences et a livré un site web qui a dépassé nos attentes. Ses compétences en développement frontend et backend sont exceptionnelles."
+      }
+    ]
+  },
+  "workExperiences": {
+    "title": "Mon Expérience Professionnelle",
+    "list": [
+      {
+        "id": 1,
+        "name": "COMIN",
+        "pos": "Développeur Full-Stack",
+        "duration": "Nov 2023 - Déc 2024",
+        "description": "Développement d'un tableau de bord administrateur évolutif avec ReactJS et transition de la plateforme d'AdonisJS à NestJS. Création d'API sécurisées et d'applications mobiles avec React Native, améliorant l'expérience utilisateur et l'efficacité opérationnelle.",
+        "icon": "/assets/comin-logo.png",
+        "animation": "victory"
+      },
+      {
+        "id": 2,
+        "name": "Notabene",
+        "pos": "Analyste en Données et Recherche",
+        "duration": "Juil 2022 - Nov 2023",
+        "description": "Recherche sur les échanges de cryptomonnaies à l'échelle mondiale, fourniture d'analyses de conformité et création de rapports réglementaires pour diverses juridictions. Analyse percutante pour la plateforme SafeTransact.",
+        "icon": "/assets/notabene-logo.png",
+        "animation": "clapping"
+      },
+      {
+        "id": 3,
+        "name": "The Web Addicts",
+        "pos": "Développeur Full-Stack",
+        "duration": "Mai 2022 - Août 2022",
+        "description": "Direction de projets clients avec Laravel et création de solutions CMS pour améliorer l'efficacité opérationnelle. Réalisation de tutoriels complets et intégration transparente des systèmes.",
+        "icon": "/assets/thewebaddicts-logo.png",
+        "animation": "salute"
+      },
+      {
+        "id": 4,
+        "name": "TEDMOB",
+        "pos": "Développeur Full-Stack et Android",
+        "duration": "Août 2021 - Fév 2022",
+        "description": "Développement d'applications publicitaires SMS Android et création d'applications web avec des capacités robustes front-end et back-end. Collaboration étroite avec les clients pour livrer des solutions adaptées.",
+        "icon": "/assets/tedmob-logo.png",
+        "animation": "victory"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Parlons-en",
+    "description": "Que vous souhaitiez créer un nouveau site web, améliorer votre plateforme existante ou donner vie à un projet unique, je suis là pour vous aider.",
+    "form": {
+      "fullName": "Nom complet",
+      "emailAddress": "Adresse email",
+      "yourMessage": "Votre message",
+      "placeholders": {
+        "fullName": "ex., Jean Dupont",
+        "emailAddress": "ex., jeandupont@gmail.com",
+        "yourMessage": "Partagez vos idées ou questions..."
+      },
+      "button": {
+        "sending": "Envoi en cours...",
+        "sendMessage": "Envoyer le message"
+      }
+    },
+    "alerts": {
+      "success": "Merci pour votre message 😃",
+      "error": "Je n'ai pas reçu votre message 😢"
+    }
+  },
+  "footer": {
+    "terms": "Conditions générales",
+    "privacy": "Politique de confidentialité",
+    "socialMedia": {
+      "github": "Github",
+      "twitter": "Twitter",
+      "instagram": "Instagram"
+    },
+    "copyright": "© 2024 Michel Youssef. Tous droits réservés."
+  }
+}
